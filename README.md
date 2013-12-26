@@ -1,2 +1,2 @@
-starterschool.github.io
+Starter School, part 2
 =======================
